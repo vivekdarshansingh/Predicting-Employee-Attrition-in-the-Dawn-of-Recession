@@ -8,3 +8,5 @@ train.csv -- The dataset on which the model is trained and validated.
 test.csv -- The dataset on which the model is tested.
 
 submission.csv -- The predictions of the test.csv file. The probabilities of the employee leaving the company is stored in this file.
+
+It was a Kaggle hackathon organised by Consulting and Analytics Club IIT Guwahati under the title "Summer Analytics 2020 Capstone Project".
